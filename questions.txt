@@ -1,0 +1,29 @@
+1. Write a program that reads a value of n and checks if the number is zero or a non-zero value.
+
+2. Write a Python program to find the largest of two numbers.
+
+3. Write a Python program that reads the number and checks if the number is positive or negative.
+
+4. Write a Python program to check if the entered character is a vowel or a consonant.
+
+5. Write a Python program that calculates the grade of a student such that:
+        - if the marks are 90 and above it reads "Excellent Performance!"
+        - if the marks are 80 and above but below 90; it reads "Very Good Performance!"
+        - if the marks are 70 and above but below 80; it reads "Good Performance!"
+        - if the marks are 60 and above but below 70; it reads "Average Performance!"
+        - if the marks are 50 and below; it reads "Poor Performance!"
+
+6. Write a Python program to find the largest of three numbers.
+
+7. Write a Python program to find the smallest of three numbers.
+
+8. Write a Python program to check whether a number is even or odd.
+
+9. Write a Python program to check a year for a leap year.
+
+10. A company insures its drivers in the following cases:
+        - if the driver is married.
+        - if the driver is unmarried, male and above 30 years of age
+        - if the driver is unmarried, female and above 25 years of age
+    In all other cases the driver is not insured.
+    If the marital status, sex and age of the driver are the inputs, write a Python program to determine whether the driver is insured or not.  
